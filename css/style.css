@@ -1016,7 +1016,9 @@ img {
     margin: 0;
     text-transform: capitalize;
 }
-
+.typing{
+    color: var(--skin-color);
+}
 .home-section .home-img .img-box {
     background-color: var(--bg-black-50);
     text-align: center;
@@ -1556,6 +1558,7 @@ img {
     bottom: 5px;
 }
 .testi-item p{
+    
     font-size: 16px;
     line-height: 26px;
     color: var(--text-black-600);
