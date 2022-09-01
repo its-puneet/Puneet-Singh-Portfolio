@@ -146,7 +146,7 @@ function sendEmail(){
 
 
 var typed = new Typed(".typing", {
-    strings: ["Software Engineer", "Front-End Developer","Community Builder", "Graphic Desginer", "Competitive Programmer"],
+    strings: ["Software Engineer", "Front-End Developer","Community Builder", "Graphic Designer", "Competitive Programmer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
